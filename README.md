@@ -208,4 +208,4 @@ This repository serves as the official landing page for nCleaner. The software i
 **Get the most recent version of nCleaner today!**
 
 ---
-**Last updated:** 2026-11-13 21:19:49 UTC
+**Last updated:** 2026-11-14 02:06:41 UTC
